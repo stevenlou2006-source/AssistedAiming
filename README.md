@@ -130,3 +130,14 @@ QQ群：573485890
 
 灵感来自各类 FPS 游戏的辅助瞄准机制。
 
+
+
+---
+
+## 许可证
+
+本项目以 **GNU General Public License v3.0** 发布。
+
+Copyright (C) 2026 cn_xc
+
+完整条款见仓库根目录 [LICENSE](LICENSE)。
