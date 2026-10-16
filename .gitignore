@@ -1,0 +1,21 @@
+﻿# ---- 编译产物 ----
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.cache
+
+# ---- IDE ----
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# ---- 第三方 / 游戏程序集（不入库）----
+*.dll
+*.zip
+*.rar
+*.7z
+
+# ---- 本地临时 ----
+*.log
+dsh-dotnet-home/

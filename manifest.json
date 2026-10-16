@@ -1,0 +1,9 @@
+{
+    "name": "AssistedAim",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "辅助瞄准 —— 敌人进入10米时自动瞄准，超出10米释放鼠标，角度可配置。模组问题交流QQ群573485890。",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
